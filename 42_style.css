@@ -1,0 +1,27 @@
+hr{
+    width: 500px;
+    margin-left: 0;
+    border: 0.5px dashed black;
+}
+
+.box1{
+    width: 500px;
+    background-color: aqua;
+    border: 10px solid rgb(242, 255, 1);
+    padding: 50px;
+    margin-bottom: 10px;
+}
+ 
+.box2{
+    width: 500px;
+    background-color: aqua;
+    border: 10px solid rgb(242, 255, 1);
+    padding: 50px;
+}
+    
+
+
+
+
+
+

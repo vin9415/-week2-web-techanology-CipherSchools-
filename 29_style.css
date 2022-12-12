@@ -1,0 +1,31 @@
+/* *{
+    color: blue; universal selector
+} */
+header{
+    background-color: aquamarine;
+}
+section.my-articles{
+    background-color: rgb(171, 171, 58);
+
+}
+header p{
+    color: brown;
+}
+li a{
+    color: blue;
+}
+section.my-articles h2{
+    color: rgb(255, 10, 1);
+}
+section.my-articles > h2{
+    color: rgb(247, 255, 24);
+}
+h2+p{
+    color: darkgreen;
+}
+ul+p{
+    color: deeppink;
+}
+section.my-articles h2+p{
+    background-color: cornflowerblue;
+}

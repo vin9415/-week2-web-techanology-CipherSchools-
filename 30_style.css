@@ -1,0 +1,30 @@
+input[type = "text"]{
+    color: rgb(255, 0, 0);
+    background-color: cyan;
+}
+input[type = "password"]{
+    background-color: orange;
+}
+/* this means vo input jiska attribute type ,uski value text ko change krna h  */
+
+
+
+a[href = "https://google.co.in"]{
+    color: rgb(255, 0, 187);
+
+}
+a[href *= "twitter"]{
+    color: salmon;
+    background-color: lawngreen;
+}
+a[href ^= "https"]{
+    color: rgba(0, 0, 0, 0.45);
+}
+
+a[href $= ".com"]{
+    color: springgreen;
+}
+
+input[text ^= "t"]{
+    color: darkmagenta;
+}

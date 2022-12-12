@@ -1,0 +1,16 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+header{
+    background-color: coral;
+}
+main{
+    background-color: cyan;
+}
+.secondary{
+    color: darkkhaki;
+}
+.highlight{
+    background-color: darkorange;
+}

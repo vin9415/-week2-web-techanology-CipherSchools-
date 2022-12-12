@@ -1,0 +1,18 @@
+h1{
+    color:royalblue ;
+}
+
+.h1class{
+    color: orangered;
+}
+
+/* here above always remeber ... inline style selector > ID selector> class selector > element selector  */
+
+#h1id{
+    color: rgb(67, 220, 20);
+}
+
+/* inline style character is not good for ours and yes its not show a fresh code as we write html part  , jo baad me likha hoga use jada preference milegi that is h2class > h1class  */
+
+
+

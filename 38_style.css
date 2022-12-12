@@ -1,0 +1,19 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(1, 1, 2);
+}
+h1 , h2{
+    border: 2px solid black;
+    /* width: 500px;      */
+    display: inline;
+}
+a{
+    border: 2px solid red;
+    margin: 100px;
+    display: block;
+}
+h1{
+    margin: 100px;
+    padding: 100px;
+}
+/* so we can change inline to block or block to inline using display*/
